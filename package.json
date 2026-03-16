@@ -1,0 +1,27 @@
+{
+  "name": "pokedex-vue-axios",
+  "version": "1.0.0",
+  "description": "A Vue.js application to display and search for Pokémon using Axios.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "vue": "^3.5.30",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "vue",
+    "pokemon",
+    "axios"
+  ],
+  "author": "",
+  "license": "MIT"
+}
